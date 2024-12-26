@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shatrughna-Chaurasia
 - 👀 I’m interested in Data science
-- 🌱 I’m currently Pursuing M.sc statistics from IIT Kanpur
+- 🌱 I’m currently Pursuing Phd in Data Science from IIT Ropar
 - 💞️ I’m looking to collaborate on Data science project
 - 📫 How to reach me ...
 
